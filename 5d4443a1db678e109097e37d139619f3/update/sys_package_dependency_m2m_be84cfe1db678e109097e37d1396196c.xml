@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">af3e3778873001102e777778cebb353e</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>ankur.j</sys_created_by>
+        <sys_created_on>2024-07-22 10:17:03</sys_created_on>
+        <sys_id>be84cfe1db678e109097e37d1396196c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Test Application" source="x_niit3_test_appli">5d4443a1db678e109097e37d139619f3</sys_package>
+        <sys_updated_by>ankur.j</sys_updated_by>
+        <sys_updated_on>2024-07-22 10:17:03</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
